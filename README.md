@@ -2,7 +2,7 @@
 ## ⿻Consignas:
 #### Utilice un display de 7 segmentos para imlplementar lo siguiente:
 ##### 1. Realizar un contador de 0 a 9 en binario que se uncremente al presionar un pulsador. Mostrar el resultado de la ceunta en un display.
-###### 2. Agregar al problema anterior un pulsador que decremente el numero
+##### 2. Agregar al problema anterior un pulsador que decremente el numero
 ###### NOTA: El incremento o decremento debe de producirse en una unidad por pulsacion.
 
 ## ⿻Se forma por:
